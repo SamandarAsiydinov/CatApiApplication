@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CatApiApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">todo</string>
+    <string name="search">Search</string>
+    <string name="list">List</string>
+    <string name="search_cats">Search Cats</string>
+    <string name="upload">Upload</string>
+    <string name="uploaded">Uploaded!</string>
+    <string name="my_cats">My Cats</string>
+</resources>

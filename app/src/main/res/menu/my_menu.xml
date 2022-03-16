@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuSearch"
+        android:icon="@drawable/ic_baseline_search_24"
+        app:showAsAction="ifRoom"
+        android:title="@string/search" />
+
+    <item
+        android:id="@+id/menuList"
+        android:icon="@drawable/ic_baseline_format_list_bulleted_24"
+        app:showAsAction="ifRoom"
+        android:title="@string/list" />
+
+</menu>
